@@ -1,0 +1,7 @@
+__pycache__/
+annotations/
+MRI_Data/
+*.ds
+*.zip
+*.xlsx
+*.pth
